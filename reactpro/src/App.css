@@ -1,0 +1,16 @@
+form
+{
+  background: linear-gradient(0deg, #FFFFFF, #FFFFFF),linear-gradient(0deg, #000000, #000000)
+}
+.label
+{
+  font: var(--sm-label-m, 500 14px/20px "Poppins-Medium", sans-serif);
+}
+.label1
+{
+  font: var(--xl-heading-r, 400 20px/28px "Poppins-Regular", sans-serif);
+}
+.label-span
+{
+  font: var(--sm-label-m, 500 14px/20px "Poppins-Medium", sans-serif);
+}
